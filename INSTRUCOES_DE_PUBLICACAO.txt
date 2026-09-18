@@ -1,0 +1,6 @@
+Sapoquinhas Festas - arquivos para hospedagem
+
+1. Extraia este ZIP.
+2. Envie o CONTEUDO extraido (incluindo index.html, pastas e arquivos) para a pasta publica do seu dominio, geralmente public_html.
+3. Mantenha a estrutura de pastas. O formulario abre o WhatsApp; nao precisa de banco de dados.
+4. Quando o dominio definitivo estiver definido, configure os enderecos canonicos e o sitemap para esse dominio. Esta versao omite referencias ao dominio anterior.
